@@ -10,8 +10,7 @@ This tutorial outlines the installation, setup and usage of the vpn software cal
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop (RDC/Windows App)
-- Various Command-Line Tools
-- <a href="https://account.protonvpn.com/signup?plan=free&ref=noupsell">Proton VPN</a> (Free Plan) 
+- Microsoft 365 Apps
 - Notepad/Notes App (Needed for saving usernames, passwords, and other information)
 
 <h2>Operating Systems Used </h2>
