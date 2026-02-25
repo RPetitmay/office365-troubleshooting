@@ -26,3 +26,27 @@ This project demonstrates common Office 365 troubleshooting scenarios encountere
 
 
 <h2>Problems and Resolution Stages</h2>
+
+<p>
+<img src="https://i.imgur.com/M1OKgFS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+     <h3>Outlook Login Issue Troubleshooting</h3>
+
+<p>
+<img src="https://i.imgur.com/M1OKgFS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+     <h3>OneDrive Sync Issue Troubleshooting</h3>
+
+<p>
+<img src="https://i.imgur.com/M1OKgFS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+     <h3>SharePoint Access Denied Troubleshooting</h3>
+
+<p>
+<img src="https://i.imgur.com/M1OKgFS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+     <h3>Password Login Issue Troubleshooting</h3>
