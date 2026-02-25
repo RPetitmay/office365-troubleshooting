@@ -10,8 +10,8 @@ This project demonstrates common Office 365 troubleshooting scenarios encountere
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop (RDC/Windows App)
-- Microsoft 365 Apps
-- Notepad/Notes App (Needed for saving usernames, passwords, and other information)
+- Microsoft 365 Applications(OneDrive, Sharepoint)
+- Browser-based troubelshooting
 
 <h2>Operating Systems Used </h2>
 
