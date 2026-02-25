@@ -23,3 +23,6 @@ This project demonstrates common Office 365 troubleshooting scenarios encountere
 - Azure Subscription/Azure Account(Portal) created
 - Resource Group created within your Azure portal
 - Windows 11 Virtual Machine(Windows) created within your Azure portal with the resource group you've created previously
+
+
+<h2>Problems and Resolution Stages</h2>
