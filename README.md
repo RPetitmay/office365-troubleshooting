@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/mgcB5rf.png" alt="Traffic Examination"/>
 </p>
 
-<h1>Microsoft Office 365 Troubeshooting</h1>
+<h1>Microsoft Office 365 Troubleshooting</h1>
 This project demonstrates common Office 365 troubleshooting scenarios encountered in IT support roles. All scenarios were performed simulating an enterprise end-user workstation.<br />
 
 
