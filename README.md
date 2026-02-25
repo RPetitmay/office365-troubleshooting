@@ -12,7 +12,7 @@ This project demonstrates common Office 365 troubleshooting scenarios encountere
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 (22H2)
+- Windows 11 
 
 <h2>List of Prerequisites</h2>
 
